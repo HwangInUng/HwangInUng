@@ -9,7 +9,7 @@ I mainly enjoy surfing.🏄🏽<br/>
 My goal is to become a developer with flexible thinking.👻<br/>
 ⚡️And I always welcome communication with you.⚡️<br/>
 
-<div align="center">
+<div>
   <br/>
   <br/>
   <br/>
