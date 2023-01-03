@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=InUng's%20Profile&fontSize=90&fontColor=8fbea5)
 
 
-<div align="center">
+<div>
   <h2>Hi, I'm Back-End Developer</h2>
 
 <!--기술스택 이미지-->
