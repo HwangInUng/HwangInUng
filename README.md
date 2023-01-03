@@ -2,7 +2,7 @@
 <!--배너-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=InUng's%20Profile&fontSize=90&fontColor=8fbea5)
 
-👊🏽 Hi, I'm java-based web programmer.<br/>
+👊🏽 Hi, My name is HwangInUng. I'm java-based web programmer.<br/>
 I'm studying the technology that mainly deals with java.<br/>
 <br/>
 I mainly enjoy surfing.🏄🏽<br/>
@@ -11,7 +11,6 @@ My goal is to become a developer with flexible thinking.👻<br/>
 
 <div>
   <hr/>
-  <br/>
   
   <!--기술스택 이미지-->
   <h4>⌨️ tech stack & tools</h4>
