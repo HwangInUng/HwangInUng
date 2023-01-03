@@ -5,7 +5,7 @@
 <div>
   <h2>Hi, I'm Back-End Developer</h2>
 
-<!--기술스택 이미지-->
+  <!--기술스택 이미지-->
   <h5>⌨️tech stack</h5>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -13,6 +13,13 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
   
+  <!--툴-->
+  <h5>🔧tools to use</h5>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  
+  <!--SNS-->
   <h5>🖥️communicate with me</h5>
   <!--인스타그램-->
   <a href="https://www.instagram.com/in_ung92/">
