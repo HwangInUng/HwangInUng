@@ -3,6 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=InUng's%20Profile&fontSize=90&fontColor=8fbea5)
 
 <div align="center">
+  <br/>
+  <br/>
+  <br/>
   
   <!--기술스택 이미지-->
   <h5>⌨️tech stack</h5>
@@ -11,7 +14,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
-  ***
+  
   <!--툴-->
   <h5>🔧tools to use</h5>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
