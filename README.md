@@ -2,6 +2,9 @@
 <!--배너-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=InUng's%20Profile&fontSize=90&fontColor=8fbea5)
 
+👊🏽 Hi, I'm java-based web programmer.
+I'm studying the technology that mainly deals with java.
+
 <div align="center">
   <br/>
   <br/>
