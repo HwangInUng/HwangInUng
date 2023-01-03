@@ -10,8 +10,7 @@ My goal is to become a developer with flexible thinking.👻<br/>
 ⚡️And I always welcome communication with you.⚡️<br/>
 
 <div>
-  <br/>
-  <br/>
+  <hr/>
   <br/>
   
   <!--기술스택 이미지-->
