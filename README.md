@@ -6,8 +6,8 @@
 I'm studying the technology that mainly deals with java.<br/>
 <br/>
 I mainly enjoy surfing.🏄🏽<br/>
-My goal is to become a developer with <b>flexible thinking.</b>👻<br/>
-⚡️And I always welcome communication with you.⚡️<br/>
+My goal is to be a developer with <b>flexible thinking</b>👻<br/>
+⚡️and i'm always welcome to communication with you.⚡️<br/>
 
 <div>
   <hr/>
