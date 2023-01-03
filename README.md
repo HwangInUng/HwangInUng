@@ -2,8 +2,12 @@
 <!--배너-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=InUng's%20Profile&fontSize=90&fontColor=8fbea5)
 
-👊🏽 Hi, I'm java-based web programmer.
-I'm studying the technology that mainly deals with java.
+👊🏽 Hi, I'm java-based web programmer.<br/>
+I'm studying the technology that mainly deals with java.<br/>
+<br/>
+I mainly enjoy surfing.🏄🏽<br/>
+My goal is to become a developer with flexible thinking.👻<br/>
+⚡️And I always welcome communication with you.⚡️<br/>
 
 <div align="center">
   <br/>
