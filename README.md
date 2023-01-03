@@ -34,6 +34,7 @@
   </a>
 
   <h5>📖my github stats</h5>
-![InUng's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangInUng&show_icons=true&theme=tokyonight)
+  </div>
+   ![InUng's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangInUng&show_icons=true&theme=tokyonight)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ung6860)](https://solved.ac/ung6860/)  나중에 사용-->
-</div>
+
