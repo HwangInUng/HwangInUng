@@ -7,7 +7,7 @@
 
 <!--기술스택 이미지-->
 <p align="center">
-  <p>🖥️communicate with me</p>
+  <p align="center">🖥️communicate with me</p>
   <!--인스타그램-->
   <a href="https://www.instagram.com/in_ung92/">
   <img src="https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white"/>
