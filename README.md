@@ -1,8 +1,8 @@
+<div align="center">
 <!--배너-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=InUng's%20Profile&fontSize=90&fontColor=8fbea5)
 
 
-<div>
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwnagInUng%2Fhit-counter&count_bg=%234B50FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
   </a>
