@@ -34,4 +34,4 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangInUng&layout=compact)](https://github.com/HwangInUng/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangInUng&show_icons=true&theme=dark&layout=compact)]
