@@ -1,6 +1,6 @@
 
 <!--배너-->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=%20worldwide&fontSize=80&fontColor=8fbea5&desc=why)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Inung's%20Profile&fontSize=80&fontColor=8fbea5&desc=Long%20live%20developers%20worldwide👊🏽)
 
 👊🏽 Hi, <b>My name is HwangInUng.</b><br/>
 I'm studying to become a Java-based programmer.🖥️<br/>
