@@ -5,6 +5,6 @@
 <!--기술스택 이미지-->
 <p align="center">
   <a href="https://www.instagram.com/in_ung92/">
-  <img src="https://img.shields.io/badge/Java-blueviolet?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
 </p>
