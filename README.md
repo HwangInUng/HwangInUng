@@ -2,9 +2,9 @@
 <!--배너-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=InUng's%20Profile&fontSize=90&fontColor=8fbea5)
 
-👊🏽 Hi, <b>My name is HwangInUng.</b>
-I'm studying to become a Java-based programmer.<br/>
-<br/>
+👊🏽 Hi, <b>My name is HwangInUng.</b><br/>
+I'm studying to become a Java-based programmer.🖥️<br/>
+
 I mainly enjoy surfing.🏄🏽<br/>
 My goal is to be a developer with <b>flexible thinking</b>👻<br/>
 ⚡️and i'm always welcome to communication with you.⚡️<br/>
