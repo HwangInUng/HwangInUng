@@ -42,9 +42,9 @@ My goal is to be a developer with <b>flexible thinking</b>👻<br/>
   </a>
   <br/>
   <br/>
-  <h4>📖 my github stats</h4>
+<!--   <h4>📖 my github stats</h4> -->
   
-  ![InUng's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangInUng&show_icons=true&theme=tokyonight)
+<!--   ![InUng's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangInUng&show_icons=true&theme=tokyonight) -->
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ung6860)](https://solved.ac/ung6860/)  나중에 사용-->
 
   
