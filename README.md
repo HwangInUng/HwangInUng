@@ -2,12 +2,9 @@
 <!--배너-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Inung's%20Profile&fontSize=80&fontColor=8fbea5&desc=who%20loves%20coding%20and%20surfing🏄🏽&descAlignY=20&descAlign=38)
 
-👊🏽 Hi, <b>My name is HwangInUng.</b><br/>
-I'm studying to become a Java-based programmer.🖥️<br/>
-
-I mainly enjoy surfing.🏄🏽<br/>
-My goal is to be a developer with <b>flexible thinking</b>👻<br/>
-⚡️and i'm always welcome to communication with you.⚡️<br/>
+👊🏽 서핑을 사랑하는 개발자의 공간입니다.🏄🏽<br/>
+제 목표는 <b>유연한 사고</b>를 통해 보다 논리적인 코드 작성이 가능하고,
+문제를 해결하기 위해 끊임없이 노력하는 개발자가 되는 것입니다.⚡️⚡️<br/>
 
 <div>
   <hr/>
@@ -16,7 +13,8 @@ My goal is to be a developer with <b>flexible thinking</b>👻<br/>
   <h4>⌨️ tech stack & tools</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-339933?style=flat-square&logo=React.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
   
