@@ -3,8 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Inung's%20Profile&fontSize=80&fontColor=8fbea5&desc=who%20loves%20coding%20and%20surfing🏄🏽&descAlignY=20&descAlign=38)
 
 서핑을 사랑하는 개발자의 공간입니다.🏄🏽<br/>
-제 목표는 <b>유연한 사고</b>를 통해 보다 논리적인 코드 작성이 가능하고,
-⚡️문제를 해결하기 위해 끊임없이 노력하는 개발자가 되는 것입니다.⚡️<br/>
+
+제 목표는 <b>유연한 사고</b>를 통해 보다 논리적인 코드 작성이 가능하며,<br/>
+문제를 해결하기 위해 끊임없이 노력하는 개발자가 되는 것입니다.👊🏽<br/>
 
 <div>
   <hr/>
