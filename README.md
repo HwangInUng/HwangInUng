@@ -1,6 +1,6 @@
 
 <!--배너-->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Inung's%20Profile&fontSize=80&fontColor=8fbea5&desc=who%20loves%20coding%20and%20surfing🏄🏽&descAlignY=20&descAlign=38)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Inung's%20Profile&fontSize=80&fontColor=8fbea5&desc=who%20loves%20coding💻&descAlignY=20&descAlign=38)
 
 문제 해결이 주는 성취감을 즐기는 백엔드 개발자입니다💻<br/>
 
