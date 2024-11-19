@@ -4,6 +4,14 @@
 
 문제 해결이 주는 성취감을 즐기는 백엔드 개발자입니다💻<br/>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/HwangInUng"
+  width="600"
+  height="300"
+/>
+</a>
+
 <div>
   <hr/>
   
